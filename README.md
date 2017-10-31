@@ -1,0 +1,2 @@
+# sogoupinyin
+auto install sogoupinyn

@@ -1,5 +1,13 @@
 # sogoupinyin
-auto install sogoupinyn
-Usage
-bash <*>.bash
-This script will install the sogoupinyin automatically.
+Auto install sogoupinyn for ubuntu16.04
+
+## Usage
+
+----
+        bash <*>.bash
+----
+
+
+## Instruction
+* This script will install the sogoupinyin automatically.
+        
